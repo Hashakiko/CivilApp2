@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CivilApp2</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login" />
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="this_is_my_signup">This is my signup</string>
+    <string name="click_to_login2">Click To Login</string>
+    <string name="civilian">Civilian</string>
+    <string name="police">Police</string>
+    <string name="hello_please_submit_any_report">Hello! Please submit any report.</string>
+    <string name="select_image">Select Image</string>
+    <string name="enter_your_report">Enter your report</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="report">Report</string>
+    <string name="select_role">Select Role:</string>
+    <string name="logout_btnnn">Logout</string>
+    <string name="logoutbtnnn">Logout</string>
+    <string name="view_reports">View Reports</string>
+    <string name="logout1">Logout</string>
+    <string name="view_reports1">View Reports</string>
+    <string name="report_description_here">Report description here</string>
+    <string name="help">Help</string>
+    <string name="ai_chat_help_center">AI Chat Help Center</string>
+    <string name="Type_here">Type your message...</string>
+    <string name="Send">Send</string>
+
+</resources>
