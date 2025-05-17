@@ -20,12 +20,16 @@
         android:id="@+id/logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/logout" />
+        android:text="@string/logout"
+        android:backgroundTint="#A7C7E7"
+        android:textColor="@color/white" />
 
     <Button
         android:id="@+id/reportButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/report"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#C62828"
+        android:textColor="@color/white"/>
 </LinearLayout>
